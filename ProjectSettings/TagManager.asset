@@ -3,17 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Door
+  - Door2
+  - DoorP
+  - DoorP2
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Door
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Door2
+  - DoorP2
+  - DoorP
   - 
   - 
   - 

@@ -23,7 +23,13 @@ public class AudioManager : MonoBehaviour
 
     public void HoverSound (AudioClip clip)
     {
-        SFXSource.PlayOneShot (bottons);
+        SFXSource.PlayOneShot(bottons);
     }
+
+    public void ClickSound(AudioClip clip)
+    {
+        SFXSource.PlayOneShot(bottons);
+    }
+
 
 }
